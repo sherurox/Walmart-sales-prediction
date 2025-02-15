@@ -144,6 +144,37 @@ pip install numpy pandas matplotlib seaborn scikit-learn statsmodels
 
 ---
 
+## Feature Importance (Linear Regression Coefficients)
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/d6ff3076-db47-4d0d-8ab8-21889cc19bd1" width="600">
+</p>
+
+## Residual Distribution
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/97a44ba8-e814-49b4-8ede-8ff94fc74c6b" width="600">
+</p>
+
+## Train Vs. Test RMSE
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/746e15d6-a294-4573-bacd-ae7d7cd82d49" width="600">
+</p>
+
+## Model Performance Metrics
+
+<p align="center">
+
+| Metric | Train Value | Test Value |
+|--------|------------|------------|
+| **R-Squared (R²)** | 0.145 | 0.153 |
+| **Root Mean Squared Error (RMSE)** | 521,024 | 522,253 |
+
+</p>
+
+
+
+
+---
+
 ## Contributors
 - **Shreyas Khandale** https://github.com/sherurox
 - **Rohan Upendra Patil**  https://github.com/rohanpatil2
@@ -152,11 +183,6 @@ pip install numpy pandas matplotlib seaborn scikit-learn statsmodels
 
 ### License
 This project is licensed under the MIT License.
-
----
-
-### Contact
-If you have any questions, feel free to reach out via GitHub Issues or email.
 
 ---
 
